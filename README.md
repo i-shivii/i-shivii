@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-shivii](https://github.com/i-shivii)
 
-- 📫 How to reach me **choureyshivi02@gmail.com**
+- 📫 How to reach me **https://linktr.ee/shivii02?utm_source=linktree_profile_share**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12gsFgFwYu7TbCR8E-lwv92K8zImNfCx6/view?usp=drive_link](https://drive.google.com/file/d/12gsFgFwYu7TbCR8E-lwv92K8zImNfCx6/view?usp=drive_link)
 
