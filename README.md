@@ -13,6 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shivi-chourey-561cs25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivi-chourey-561cs25a" height="30" width="40" /></a>
 <a href="https://instagram.com/_sh.i.vi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sh.i.vi_" height="30" width="40" /></a>
+  <a href="mailto:choureyshivi02@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
