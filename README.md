@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://linktr.ee/shivii02?utm_source=linktree_profile_share**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12gsFgFwYu7TbCR8E-lwv92K8zImNfCx6/view?usp=drive_link](https://drive.google.com/file/d/12gsFgFwYu7TbCR8E-lwv92K8zImNfCx6/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12gsFgFwYu7TbCR8E-lwv92K8zImNfCx6/view?usp=drive_link](https://drive.google.com/file/d/1k47kEKZ41FeYzVKtOvCAOgMo4KAYNtAI/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
