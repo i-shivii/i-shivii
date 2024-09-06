@@ -2,10 +2,11 @@
 <h3 align="center">A dedicated frontend developer</h3>
 
 - 🌱 I’m currently learning **Reactjs**
+- 📫 My Portfolio **https://my-portfolio-tau-one-70.vercel.app/**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-shivii](https://github.com/i-shivii)
 
-- 📫 My Portfolio **https://my-portfolio-tau-one-70.vercel.app/**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12gsFgFwYu7TbCR8E-lwv92K8zImNfCx6/view?usp=drive_link](https://drive.google.com/file/d/1k47kEKZ41FeYzVKtOvCAOgMo4KAYNtAI/view?usp=drive_link)
 
