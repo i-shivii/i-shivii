@@ -29,5 +29,5 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="https://api.badgr.io/public/assertions/NwjgIlVlSCi8Aayp8eX9Qw?identity__email=choureyshivi02%40gmail.com" width="100px" height="100px" />
 </div>
