@@ -29,5 +29,5 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://api.badgr.io/public/assertions/NwjgIlVlSCi8Aayp8eX9Qw?identity__email=choureyshivi02%40gmail.com" width="100px" height="100px" />
+<img src="C:\Users\28shi\OneDrive\Desktop\My stuff\Postman - Postman API Fundamentals Student Expert - 2024-10-22.png" width="100px" height="100px" />
 </div>
