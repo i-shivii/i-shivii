@@ -29,8 +29,7 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/![Postman - Postman API Fundamentals Student Expert - 2024-10-22](https://github.com/user-attachments/assets/0024ed25-d61d-42ca-873e-8b4a319454dc)
-" width="100px" height="100px" />
+<img src="Postman - Postman API Fundamentals Student Expert - 2024-10-22.png" width="100px" height="100px" />
 <!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/![Postman - Postman API Fundamentals Student Expert - 2024-10-22](https://github.com/user-attachments/assets/520f27cc-8d3c-4310-ba3f-69638c496046)
 " width="100px" height="100px" /> -->
 <!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
