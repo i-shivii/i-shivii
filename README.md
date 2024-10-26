@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivi Chourey</h1>
+<h1 align="center">Hii 👋, I'm Shivi</h1>
 <h3 align="center">A dedicated frontend developer</h3>
 
 - 🌱 I’m currently learning **Reactjs**
