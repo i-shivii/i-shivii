@@ -30,10 +30,10 @@
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
 <img src="Postman - Postman API Fundamentals Student Expert - 2024-10-22.png" width="100px" height="100px" />
-<!--   <img src="https://github.com/i-shivii/i-shivii/blob/main/1.png" width="100px" height="100px" /> -->
-<!--   <img src="https://github.com/i-shivii/i-shivii/blob/main/2.png" width="100px" height="100px" /> -->
+  <img src="https://github.com/i-shivii/i-shivii/blob/main/1.png" width="100px" height="100px" />
+  <img src="https://github.com/i-shivii/i-shivii/blob/main/2.png" width="100px" height="100px" />
   <img src="https://github.com/i-shivii/i-shivii/blob/main/3.png" width="100px" height="100px" />
-<!--   <img src="https://github.com/i-shivii/i-shivii/blob/main/4.png" width="100px" height="100px" />
-  <img src="https://github.com/i-shivii/i-shivii/blob/main/5.png" width="100px" height="100px" /> -->
+  <img src="https://github.com/i-shivii/i-shivii/blob/main/4.png" width="100px" height="100px" />
+  <img src="https://github.com/i-shivii/i-shivii/blob/main/5.png" width="100px" height="100px" />
  
 </div>
