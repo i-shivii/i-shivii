@@ -25,7 +25,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://discord.com/users/1280931670387851329" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Discord_icon.svg" alt="Discord" height="30" width="40" />
+    <img align="center" src="https://github.com/i-shivii/i-shivii/blob/main/discord.png" alt="Discord" height="40" width="40" />
   </a>
 </p>
 
