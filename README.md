@@ -36,9 +36,17 @@
   <a href="https://x.com/Shivii_02" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+    <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</a>
+
 </div>
 
- <hr/>
+<br>
+<br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 <h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 <br/>
@@ -56,7 +64,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<hr/>
+<br/>
+<br/>
 
 ## GSSOC(24) Badges 🪶
 <br>
@@ -69,3 +78,25 @@
   <img src="https://github.com/i-shivii/i-shivii/blob/main/5.png" width="100px" height="100px" />
  
 </div>
+
+<br/>
+<br/>
+
+
+ <br/>
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=i-shivii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br/>
+<br/>
+
+## 🔥My Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-shivii&theme=dark&hide_border=false)
+
+<br/>
+<br/>
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=i-shivii&limit=5&theme=dracula&combine_all_yearly_contributions=true)
