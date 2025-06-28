@@ -55,12 +55,12 @@ const shivii = {
 </div>
 
 <div align="center">
-<!--   <a href="https://my-portfolio-tau-one-70.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-tau-one-70.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a> -->
-<!--   <a href="https://drive.google.com/file/d/1k47kEKZ41FeYzVKtOvCAOgMo4KAYNtAI/view?usp=drive_link" target="_blank">
+  </a>
+  <a href="https://drive.google.com/file/d/1k47kEKZ41FeYzVKtOvCAOgMo4KAYNtAI/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-4ECDC4?style=for-the-badge&logoColor=white" alt="Resume"/>
-  </a> -->
+  </a>
   <a href="https://github.com/i-shivii" target="_blank">
     <img src="https://img.shields.io/badge/💻_Projects-45B7D1?style=for-the-badge&logoColor=white" alt="Projects"/>
   </a>
