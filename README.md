@@ -58,7 +58,7 @@ const shivii = {
   <a href="https://my-portfolio-tau-one-70.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/file/d/1k47kEKZ41FeYzVKtOvCAOgMo4KAYNtAI/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1JubR17sQWvGf0-TzpEJUsvgKQ3KhsQNr/view" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-4ECDC4?style=for-the-badge&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://github.com/i-shivii" target="_blank">
