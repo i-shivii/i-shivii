@@ -101,7 +101,7 @@ const shivii = {
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,php,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=Reactjs, Nextjs, Typescript, Javascript, Tailwind CSS,Nodejs,Mongodb,HTML,CSS,Bootstrap,PHP,MySql,Git,Github,Vscode,Figma, Wordpress,Canva" />
 </div>
 
 <br>
