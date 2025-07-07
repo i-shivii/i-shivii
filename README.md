@@ -34,12 +34,12 @@ const shivii = {
     education: "Computer Science Student",
     currentFocus: "Full Stack Development",
     techStack: {
-        frontend: ["React", "HTML5", "CSS3", "Bootstrap", "JavaScript"],
-        backend: ["Node.js", "PHP", "Python"],
-        database: ["MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "Figma"]
-    },
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+  frontend: [
+    "React","ReactJS", "Next.js","HTML","CSS","Tailwind CSS","Bootstrap","JavaScript", "TypeScript"],
+  backend: ["Node.js","Express.js","PHP","Python"],
+  database: [ "MySQL","MongoDB"],
+  tools: [ "Git",  "GitHub","VS Code","Figma","Canva","WordPress"] },
+ 
 };
 ```
 
