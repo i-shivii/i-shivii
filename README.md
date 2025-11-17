@@ -54,7 +54,7 @@ const shivii = {
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://my-portfolio-tau-one-70.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
@@ -64,7 +64,7 @@ const shivii = {
   <a href="https://github.com/i-shivii" target="_blank">
     <img src="https://img.shields.io/badge/💻_Projects-45B7D1?style=for-the-badge&logoColor=white" alt="Projects"/>
   </a>
-</div>
+</div> -->
 
 <br>
 
